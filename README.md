@@ -7,7 +7,7 @@ Woman ddim, 1024x1024, 1000 images <br />
 Man ddim, 1024x1024, 1000 images <br />
 Artstyle ddim, 1024x1024, 1000 images <br />
 
-If you just want to clone and download just a particular folder, then I recommend installing [github-clone](https://github.com/HR/github-clone) by [HR](https://github.com/HR)
+If you just want to clone and download a particular folder, then I recommend installing [github-clone](https://github.com/HR/github-clone) by [HR](https://github.com/HR)
 
 `pip install github-clone`
 
